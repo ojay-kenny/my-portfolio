@@ -23,7 +23,7 @@ export default function Contact() {
                     <div className="space-y-4 pt-4">
                         <div className="flex items-center space-x-3">
                             <span className="text-lg">📧</span>
-                            <span className="text-sm text-[#F2F2F4]">your.email@example.com</span>
+                            <span className="text-sm text-[#F2F2F4]">ojaykenny576@gmail.com.com</span>
                         </div>
                         <div className="flex items-center space-x-3">
                             <span className="text-lg">📍</span>
