@@ -23,7 +23,7 @@ export default function Contact() {
                     <div className="space-y-4 pt-4">
                         <div className="flex items-center space-x-3">
                             <span className="text-lg">📧</span>
-                            <span className="text-sm text-[#F2F2F4]">ojaykenny576@gmail.com.com</span>
+                            <span className="text-sm text-[#F2F2F4]">ojaykenny576@gmail.com .com</span>
                         </div>
                         <div className="flex items-center space-x-3">
                             <span className="text-lg">📍</span>
@@ -36,9 +36,9 @@ export default function Contact() {
                             Connect
                         </p>
                         <div className="flex space-x-4 text-xs">
-                            <a href="#" className="text-[#A1A1AA] hover:text-[#F2F2F4] transition-colors">LinkedIn</a>
+                            <a href="https://www.linkedin.com/in/kehinde-ojeyemi-445b61438" className="text-[#A1A1AA] hover:text-[#F2F2F4] transition-colors">LinkedIn</a>
                             <a href="#" className="text-[#A1A1AA] hover:text-[#F2F2F4] transition-colors">Behance</a>
-                            <a href="#" className="text-[#A1A1AA] hover:text-[#F2F2F4] transition-colors">Instagram</a>
+                            <a href="https://www.instagram.com/ojay.kenny/" className="text-[#A1A1AA] hover:text-[#F2F2F4] transition-colors">Instagram</a>
                         </div>
                     </div>
                 </div>
